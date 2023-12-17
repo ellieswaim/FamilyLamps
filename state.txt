@@ -1,2 +1,2 @@
-p1_state=G
-p2_state=G
+p1_state=Green
+p2_state=Green
